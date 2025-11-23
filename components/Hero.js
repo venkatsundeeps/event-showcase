@@ -78,18 +78,6 @@ export default function Hero() {
           </a>
         </div>
 
-        <div className="mt-6 text-sm text-rose-100 max-w-2xl mx-auto">
-          <strong>Wedding Website Package (Demo):</strong> Free Hosting · Search
-          Engine Friendly Website with NEXTJS · Source code transfer to your own
-          accounts · Images and cloud stores in your own accounts · SEO
-          optimized · Google Analytics & Search Console setup · Website visitors
-          tracking setup · And more.
-          <div className="mt-1 text-xs text-rose-200">
-            Initial charges 1500rs. rest pay at your satisfaction. we accept any
-            amount.
-          </div>
-        </div>
-
         {/* removed extra CTA to keep hero clean */}
       </motion.div>
     </div>
